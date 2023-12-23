@@ -26,3 +26,5 @@ console.log(person.friends);
 
 months.push(person);
 console.log(months);
+
+console.log(months.includes('September'));
